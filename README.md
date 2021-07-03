@@ -1,0 +1,1 @@
+# javascript_email_validation
